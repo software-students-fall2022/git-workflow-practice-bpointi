@@ -1,4 +1,4 @@
-[# Twitter pranksters derail GPT-3 bot with newly discovered “prompt injection” hack](https://arstechnica.com/information-technology/2022/09/twitter-pranksters-derail-gpt-3-bot-with-newly-discovered-prompt-injection-hack/?comments=1)
+# [Twitter pranksters derail GPT-3 bot with newly discovered “prompt injection” hack](https://arstechnica.com/information-technology/2022/09/twitter-pranksters-derail-gpt-3-bot-with-newly-discovered-prompt-injection-hack/?comments=1)
 
 # Discussion
 
