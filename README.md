@@ -2,7 +2,7 @@
 
 # Discussion
 
-This article covers humorous incidences of Twitter users exploiting a recently-discovered and inherent vulnerability in the GPT-3 language model AI to make a Twitter bot say things outside the domain of what it is programmed to (you can visit the bot's twitter @remoteli.io). The technique has been coined "prompt injection" and is similar to an SQL injection in that the program erroneously executes a piece of user input that it shouldn't have. The difference between the two is that the natural language structure of the AI prohibits developers from remedying injection exploit risks through syntax fixes, as in traditional software. Time will tell if this exploit can dangerously grow beyond unintended outputs and if anything can be done in terms of its prevention.\
+This article covers humorous incidences of Twitter users exploiting a recently-discovered and inherent vulnerability in the GPT-3 language model AI to make a Twitter bot say things outside the domain of what it is programmed to (you can visit the bot's twitter @remoteli.io). The technique has been coined "prompt injection" and is similar to an SQL injection in that the program erroneously executes a piece of user input that it shouldn't have. The difference between the two is that the natural language structure of the AI prohibits developers from remedying injection exploit risks through syntax fixes, as in traditional software. Time will tell if this exploit can dangerously grow beyond unintended outputs and if anything can be done in terms of its prevention.
 
 ***
 
